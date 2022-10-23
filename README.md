@@ -1,7 +1,8 @@
 ### Hi there 👋
 I’m currently working on my M.Phil. thesis about nonreciprocal materials. The codes for automation processes in data analysis are uploaded for record.
 
-In leisure time, I translate some games from English or Simplified Chinese to Traditional Chinese for personal use.
+In leisure time, I translate some games from English and Simplified Chinese to Traditional Chinese for personal use. Some processes are also done by VBA automation and being uploaded.
+
 
 <!--
 **FatBallu/FatBallu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
